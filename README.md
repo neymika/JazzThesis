@@ -5,6 +5,10 @@ Jazz Accompaniment Generation Project under Professor Minnich
   * Conducted preliminary research about current models and tools available.
     * In Google Drive only accessible to [Caltech](https://docs.google.com/document/d/194IrzHoIaE3tV-BhLnm9dzZ_iBV8fqSgp4qFqe_i6mw/edit?usp=sharing)
 ## Week 1
+  * Set up shared conda environment:
+    * On the base conda env, run ```conda env create -f environment.yml```
+    * Use ```conda env list``` to see all your environments - jazzthesis should be one of them.
+    * ```conda activate jazzthesis```
   * (NJ) Implemented data scrapper to download all MIDI files from [Doug McKenzie's website](https://bushgrafts.com/midi/)
     * Requires the following package installations:
       * ```python
