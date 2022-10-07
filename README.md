@@ -17,4 +17,4 @@ Jazz Accompaniment Generation Project under Professor Minnich
         cd Data
         python3 datascrapper.py
         ```
-  * (NJ and Nishka) Currently trying to adjust MIDI manipulations and classifications from CS 159 VAE code
+  * (NJ and NA) Currently trying to adjust MIDI manipulations and classifications from CS 159 VAE code
